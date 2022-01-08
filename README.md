@@ -5,8 +5,9 @@ Board used is: NUCLEO-G431RB
 
 Detailed information: [NUCLEO-G431RB](https://www.st.com/en/evaluation-tools/nucleo-g431rb.html#overview)
 
-Demo 1 = [YouTUbe, Demo 1](https://www.youtube.com/watch?v=jB_gVwflhkY)
-Demo 2 = [YouTUbe, Demo 2](https://www.youtube.com/watch?v=jB_gVwflhkY)
+Demo 1 = [YouTube, Demo 1](https://www.youtube.com/watch?v=jB_gVwflhkY)
+
+Demo 2 = [YouTube, Demo 2](https://ibrahimcahitozdemir.com/2022/01/08/quaternion-based-ahrs-estimation-using-mpu9250-and-stm32g431/)
 
 ## Circuit:
 
