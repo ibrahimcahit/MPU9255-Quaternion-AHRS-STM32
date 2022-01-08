@@ -5,6 +5,9 @@ Board used is: NUCLEO-G431RB
 
 Detailed information: [NUCLEO-G431RB](https://www.st.com/en/evaluation-tools/nucleo-g431rb.html#overview)
 
+Demo 1 = [YouTUbe, Demo 1](https://www.youtube.com/watch?v=jB_gVwflhkY)
+Demo 2 = [YouTUbe, Demo 2](https://www.youtube.com/watch?v=jB_gVwflhkY)
+
 ## Circuit:
 
 ![](https://raw.githubusercontent.com/ibrahimcahit/MPU9255-Quaternion-AHRS-STM32/main/MPU9250%20NEW/photo_2022-01-08_06-23-47.jpg)
